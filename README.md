@@ -1,1 +1,2 @@
 # CodeAlpha_StudentGradeTracker
+GradeTracker is a Java application designed to help users track and analyze student grades. The program prompts the user to input the names and grades of a specified number of students. It then calculates and displays the highest and lowest grades along with the names of the students who received those grades, even if multiple students share the same grade. Additionally, it computes and displays the average grade of the class.
